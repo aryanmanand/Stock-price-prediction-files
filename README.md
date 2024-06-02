@@ -1,2 +1,2 @@
-# Stock-price-prediction-files
-Stock Price Prediction
+# Stock-price-prediction
+Python
